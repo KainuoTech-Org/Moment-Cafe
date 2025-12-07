@@ -133,7 +133,7 @@ export default function Home() {
                     </div>
                     <div className="space-y-2 sm:col-span-2">
                       <h4 className="font-semibold uppercase tracking-wider text-zinc-400">{t.home.info.contact_title}</h4>
-                      <p>(+886) 2-2700-1234<br/>hello@momentcafe.tw</p>
+                      <p>(+852) 2345-6789<br/>hello@momentcafe.hk</p>
                     </div>
                  </div>
                </FadeIn>
@@ -142,7 +142,7 @@ export default function Home() {
                <FadeIn direction="left" className="w-full">
                  <div className="w-full h-[300px] md:h-[400px] rounded-lg overflow-hidden grayscale hover:grayscale-0 transition-all duration-500">
                     <iframe 
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.708899553767!2d121.5463720760505!3d25.04394243788775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442abd379a55555%3A0x8e8e8e8e8e8e8e8e!2sNo.%2012%2C%20Lane%20233%2C%20Section%201%2C%20Dunhua%20S%20Rd%2C%20Da%E2%80%99an%20District%2C%20Taipei%20City%2C%20Taiwan%20106!5e0!3m2!1sen!2sus!4v1709820000000!5m2!1sen!2sus" 
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.683407986793!2d114.1517413760411!3d22.28383837969848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007c6f050d4f%3A0x264188540306381!2s18%20Gough%20St%2C%20Central!5e0!3m2!1sen!2shk!4v1709820000000!5m2!1sen!2shk" 
                       width="100%" 
                       height="100%" 
                       style={{ border: 0 }} 

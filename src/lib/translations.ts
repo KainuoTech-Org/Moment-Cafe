@@ -31,7 +31,7 @@ export const translations = {
       info: {
         title: "Visit Us",
         address_title: "Address",
-        address_val: "No. 12, Lane 233, Sec 1, Dunhua S Rd, Da’an Dist, Taipei City",
+        address_val: "G/F, 18 Gough Street, Central, Hong Kong",
         hours_title: "Hours",
         hours_val: "Mon-Fri: 7am - 8pm\nSat-Sun: 8am - 9pm",
         contact_title: "Contact",
@@ -92,7 +92,7 @@ export const translations = {
       info: {
         title: "門店資訊",
         address_title: "地址",
-        address_val: "台北市大安區敦化南路一段233巷12號",
+        address_val: "香港中環歌賦街18號地下",
         hours_title: "營業時間",
         hours_val: "週一至週五: 7am - 8pm\n週六至週日: 8am - 9pm",
         contact_title: "聯繫方式",
