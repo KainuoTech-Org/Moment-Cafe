@@ -11,7 +11,7 @@ export default function MenuPage() {
   const menu = [
     {
       category: t.menu.coffee,
-      image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
       items: [
         { name: language === 'en' ? "Espresso" : "濃縮咖啡", price: "$3.50", description: language === 'en' ? "Rich and bold single shot." : "濃郁厚實的單份濃縮。" },
         { name: language === 'en' ? "Americano" : "美式咖啡", price: "$4.00", description: language === 'en' ? "Espresso with hot water." : "濃縮咖啡加入熱水。" },
@@ -23,7 +23,7 @@ export default function MenuPage() {
     },
     {
       category: t.menu.tea,
-      image: "https://images.unsplash.com/photo-1563911302283-d2bc129e7c1f?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
       items: [
         { name: language === 'en' ? "Matcha Latte" : "抹茶拿鐵", price: "$5.50", description: language === 'en' ? "Premium ceremonial matcha." : "選用高級儀式級抹茶粉。" },
         { name: language === 'en' ? "Earl Grey" : "伯爵茶", price: "$4.50", description: language === 'en' ? "Classic black tea with bergamot." : "經典佛手柑風味紅茶。" },
@@ -33,7 +33,7 @@ export default function MenuPage() {
     },
     {
       category: t.menu.desserts,
-      image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
       items: [
         { name: language === 'en' ? "Croissant" : "可頌", price: "$4.00", description: language === 'en' ? "Buttery and flaky, baked fresh." : "層次分明，每日現烤。" },
         { name: language === 'en' ? "Almond Croissant" : "杏仁可頌", price: "$5.00", description: language === 'en' ? "Filled with almond cream." : "內餡滿滿的杏仁奶油。" },
